@@ -1,0 +1,11 @@
+{
+  "threshold_median_lead_days_before_failure": 12.0,
+  "seed": 42,
+  "cars": 2000,
+  "days": 180,
+  "readings": 78762,
+  "degrading_cars": 118,
+  "threshold_set_outs": 940,
+  "threshold_false_alarms": 586,
+  "threshold_confirmed": 354
+}

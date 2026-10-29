@@ -1,0 +1,20 @@
+{
+  "train_rows": 17941,
+  "test_rows": 7645,
+  "test_positive_rate": 0.0084,
+  "model_auc": 0.8828,
+  "model_precision": 0.9,
+  "model_recall": 0.5625,
+  "threshold_precision": 0.3066,
+  "threshold_recall": 0.6562,
+  "model_false_alarms": 4,
+  "threshold_false_alarms": 95
+}
+top 5 scored cars:
+        car_id division  risk_score  trend_delta
+271  NS100292  Atlanta         1.0    13.025000
+437  NS100470  Atlanta         1.0    27.370000
+545  NS100581  Alabama         1.0    20.392857
+689  NS100732  Chicago         1.0    11.200000
+768  NS100816  Alabama         1.0     3.164286
+MLflow logging skipped: ModuleNotFoundError
